@@ -1,0 +1,33 @@
+_repo: Woman-in-Prison_44273
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44273-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woods, Caroline H.
+    gutenberg_agent_id: '42668'
+    url: http://www.gutenberg.org/2009/agents/42668
+description: While I was waiting, that advertisement returned to my reflections, and
+  urged its cause imperatively as a command. It was a call, to me, resistless as the
+  voice that awoke the young Israelitish Prophet from his slumbers. In another moment
+  the struggle with my pride was over, and my spirit answered, -I will go, even to
+  lust-besotted Sodom if thou leadest, Light of my path! I seated myself in a street
+  car, went to the prison, applied for the place, and obtained it. Day by day I wrote
+  down what I saw and heard, what I said and did. Why? In obedience to the same Voice
+  that called me to.
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44273'
+  lccn: '10032182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons -- United States'
+- !lcsh 'Women prisoners -- United States'
+- !lcc 'HV'
+title: Woman in Prison
+url: http://www.gutenberg.org/ebooks/44273
